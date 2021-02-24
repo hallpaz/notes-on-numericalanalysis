@@ -36,8 +36,8 @@ $(1) ||Ax|| \le ||A||||x||$
 
 $(2)  \frac{||x||}{||A^{-1}||} \le  ||Ax||$
 
-$(3) $
+$(3) \frac{1}{||A^{-1}||} \le \frac{||Ax||}{||x||} \le ||A||$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDU4NzkyNiw4MjY3OTg4NDMsMTQyOT
+eyJoaXN0b3J5IjpbMTk0NjkxMTcyOCw4MjY3OTg4NDMsMTQyOT
 A4NjI5NSwxNDc0MzkyNzY3XX0=
 -->
