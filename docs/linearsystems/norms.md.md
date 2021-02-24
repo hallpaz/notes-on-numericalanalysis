@@ -34,8 +34,8 @@ $||A|| = sup_{x \ne 0}\frac{||Ax||}{||x||}$
 
 (1) $||Ax|| \le ||A||||x||$
 
-(2)  
+(2)  \frac{||x||}{||A^{-1}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM5Njg2MjksODI2Nzk4ODQzLDE0Mj
-kwODYyOTUsMTQ3NDM5Mjc2N119
+eyJoaXN0b3J5IjpbLTU3MTE4NDUyOCw4MjY3OTg4NDMsMTQyOT
+A4NjI5NSwxNDc0MzkyNzY3XX0=
 -->
