@@ -20,8 +20,10 @@ FLOP - floating point operation
 
 $$c := c + a_{ij}b_{kj}$$
 
+Complexidade da Eliminação Gaussiana?
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk3MDkxMjgsMTQyOTA4NjI5NSwxND
-c0MzkyNzY3XX0=
+eyJoaXN0b3J5IjpbODI2Nzk4ODQzLDE0MjkwODYyOTUsMTQ3ND
+M5Mjc2N119
 -->
