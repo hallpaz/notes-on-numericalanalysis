@@ -38,8 +38,10 @@ $(2)  \frac{||x||}{||A^{-1}||} \le  ||Ax||$
 
 $(3) \frac{1}{||A^{-1}||} \le \frac{||Ax||}{||x||} \le ||A||$
 
+## Erros
 
+Erro relativo dá uma ideia do número de dígitos corretos da solução.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMjYxMjYwLDE5NDY5MTE3MjgsODI2Nz
+eyJoaXN0b3J5IjpbOTc3MzcyMTg1LDE5NDY5MTE3MjgsODI2Nz
 k4ODQzLDE0MjkwODYyOTUsMTQ3NDM5Mjc2N119
 -->
