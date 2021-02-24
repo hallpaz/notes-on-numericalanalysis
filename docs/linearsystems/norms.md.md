@@ -7,6 +7,11 @@ $||A|| = sup_{x \ne 0}\frac{||Ax||}{||x||}$
 (2)  
 
 
+## Eliminação Gaussiana
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDM5Mjc2N119
+eyJoaXN0b3J5IjpbMTQyOTA4NjI5NSwxNDc0MzkyNzY3XX0=
 -->
