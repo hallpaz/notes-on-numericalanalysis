@@ -32,10 +32,12 @@ $||u||_1, |u||_2, |u||_{inf},$
 
 $||A|| = sup_{x \ne 0}\frac{||Ax||}{||x||}$
 
-(1) $||Ax|| \le ||A||||x||$
+$(1) ||Ax|| \le ||A||||x||$
 
-(2)  \frac{||x||}{||A^{-1}}
+$(2)  \frac{||x||}{||A^{-1}||} \le  ||Ax||$
+
+$(3) $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTE4NDUyOCw4MjY3OTg4NDMsMTQyOT
+eyJoaXN0b3J5IjpbMTU3NDU4NzkyNiw4MjY3OTg4NDMsMTQyOT
 A4NjI5NSwxNDc0MzkyNzY3XX0=
 -->
