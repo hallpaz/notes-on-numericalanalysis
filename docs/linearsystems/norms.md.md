@@ -25,10 +25,17 @@ Complexidade da Eliminação Gaussiana?
 
 ## Norma vetorial
 
-$||u||_1, $
+$||u||_1, |u||_2, |u||_{inf},$
 
 
+## Norma induzida de uma Matriz
+
+$||A|| = sup_{x \ne 0}\frac{||Ax||}{||x||}$
+
+(1) $||Ax|| \le ||A||||x||$
+
+(2)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTg1MzI1MSw4MjY3OTg4NDMsMTQyOT
-A4NjI5NSwxNDc0MzkyNzY3XX0=
+eyJoaXN0b3J5IjpbLTE3MDM5Njg2MjksODI2Nzk4ODQzLDE0Mj
+kwODYyOTUsMTQ3NDM5Mjc2N119
 -->
