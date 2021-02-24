@@ -23,7 +23,12 @@ $$c := c + a_{ij}b_{kj}$$
 Complexidade da Eliminação Gaussiana?
 
 
+## Norma vetorial
+
+$||u||_1, $
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2Nzk4ODQzLDE0MjkwODYyOTUsMTQ3ND
-M5Mjc2N119
+eyJoaXN0b3J5IjpbMTQ2OTg1MzI1MSw4MjY3OTg4NDMsMTQyOT
+A4NjI5NSwxNDc0MzkyNzY3XX0=
 -->
